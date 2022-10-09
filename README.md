@@ -11,9 +11,9 @@ Simple Quiz game written in [Solidity](https://docs.soliditylang.org).Users crea
 | claimMoney | id | claim all pledged money if there was a no winner |
 | viewAllQuizes | - | see all quizes on the blockchain |
 
-*answerHash:Data should be stored hash because players can able to see storage in the blockchain.
-**endDate:takes value in milliseconds.
-***uri:Storing data on blockchain is very costly so there is a URL to reference them for details.
+1. *answerHash:Data should be stored hash because players can able to see storage in the blockchain.
+2. **endDate:takes value in milliseconds.
+3. ***uri:Storing data on blockchain is very costly so there is a URL to reference them for details.
 
 
 ## How to Run
